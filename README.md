@@ -9,7 +9,7 @@ Created by Jonathan Tribble. To God be the glory!
 # Regular Installation Process (binaries)
 
 # Windows: SimpleQ.exe
-1 ) For Windows users download and unzip "SimpleQ <version>.zip"
+1 ) For Windows users download and unzip "SimpleQ <version>.zip": https://github.com/iamjonnytribble/SimpleQ/raw/main/SimpleQ%201.0.0.zip
     
 2 ) Drag-and-Drop the "SimpleQ 1.0.0" folder into the C:\Program Files\ directory. (Windows should ask for administrative permision first)
     
@@ -24,7 +24,7 @@ Created by Jonathan Tribble. To God be the glory!
   
 
 # MacOS: SimpleQ.app
-1) For MacOS users download SimpleQ.app.zip
+1) For MacOS users download SimpleQ.app.zip: https://github.com/iamjonnytribble/SimpleQ/raw/main/SimpleQ.app.zip
 2) The folder should automatically un-zip into your downloads folder.
   - If the folder does not unzip, simply double-click the folder.
 3) Drag-and-Drop SimpleQ.app into you Applications folder.
