@@ -16,8 +16,7 @@ This software is subject to the Qt open-source license: https://www.qt.io/licens
 4 ) Right-click SimpleQ <version>.exe - Click "Send to" - Chose "Desktop (create shortcut)"
     
 5 ) Note! You might get an vcruntime140.dll not found error while attempting to open the program for the first time.
-    
-    - If that is the case, you can install this Redistributable directly from Microsoft: https://www.microsoft.com/en-us/download/details.aspx?id=48145
+    If that is the case, you can install this Redistributable directly from Microsoft: https://www.microsoft.com/en-us/download/details.aspx?id=48145
     
 6) Enjoy SimpleQ! 🚀
   
