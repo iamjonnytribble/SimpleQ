@@ -21,7 +21,7 @@ This software is subject to the Qt open-source license: https://www.qt.io/licens
 6) Enjoy SimpleQ! 🚀
   
 
-# MacOS SimpleQ.app
+# MacOS: SimpleQ.app
 1) For MacOS users download SimpleQ.app.zip
 2) The folder should automatically un-zip into your downloads folder.
   - If the folder does not unzip, simply double-click the folder.
