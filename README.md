@@ -6,7 +6,7 @@ Created by Jonathan Tribble. To God be the glory!
 *This software is subject to the Qt open-source license: https://www.qt.io/licensing/open-source-lgpl-obligations
 
 
-# Installation process
+# Regular Installation Process (binaries)
 
 # Windows: SimpleQ.exe
 1 ) For Windows users download and unzip "SimpleQ <version>.zip"
