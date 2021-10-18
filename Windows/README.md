@@ -3,7 +3,7 @@
     
 2 ) Drag-and-Drop the "SimpleQ 1.0.0" folder into the C:\Program Files\ directory. (Windows should ask for administrative permision first)
     
-3 ) Open the SimpleQ directory: C:\Program Files\SimpleQ [version]
+3 ) Open the SimpleQ directory: C:\Program Files\SimpleQ [version]. If you are updating SimpleQ select replace for all pop-ups.
     
 4 ) Right-click SimpleQ [version].exe - Click "Send to" - Chose "Desktop (create shortcut)"
 
