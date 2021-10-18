@@ -1,5 +1,5 @@
 # Windows: SimpleQ.exe
-1 ) For Windows users download and unzip "SimpleQ_[version].zip"
+1 ) For Windows users download and unzip "SimpleQ_Windows_[version].zip"
     
 2 ) Drag-and-Drop the "SimpleQ 1.0.0" folder into the C:\Program Files\ directory. (Windows should ask for administrative permision first)
     
