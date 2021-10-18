@@ -11,5 +11,4 @@
     - Windows will not be able to verify that this is an authentic version of SimpleQ (A Digital Signature Certificate).
     - Since you have downloaded this program from SimpleQ's Github, you know that this is an authentic version of SimpleQ.
     
-7 ) Note! You might get an vcruntime140.dll not found error while attempting to open the program for the first time.
-    If that is the case, you can install this "C++ 2015-19 Redistributable (x64)" directly from Microsoft: https://www.microsoft.com/en-us/download/details.aspx?id=48145
+Enjoy SimpleQ 🚀
