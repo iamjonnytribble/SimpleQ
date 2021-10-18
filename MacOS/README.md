@@ -1,5 +1,5 @@
 # MacOS: SimpleQ.app
-1) For MacOS users download SimpleQ.app.zip: https://github.com/iamjonnytribble/SimpleQ/raw/main/SimpleQ.app.zip
+1) For MacOS users download SimpleQ_[version]_MacOS.zip
 2) The folder should automatically un-zip into your downloads folder.
   - If the folder does not unzip, simply double-click the folder.
 3) Drag-and-Drop SimpleQ.app into you Applications folder.
